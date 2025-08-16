@@ -1,11 +1,11 @@
 # Neovim PyCharm-Level Python Debugging Setup
 
-A complete Neovim configuration that provides PyCharm-level Python debugging capabilities, optimized for Chromebook/RunPod environments.
+A complete Neovim configuration that provides PyCharm-level Python debugging capabilities for Linux servers (Digital Ocean, AWS, Google Cloud, etc.) with Chromebook-compatible keybindings.
 
 ## 🚀 Features
 
 - **PyCharm-Style Debugging**: Visual debugging panels, variable inspection, call stack
-- **Chromebook Compatible**: Custom keybindings that work without F-keys
+- **Universal Keybindings**: Chromebook-friendly keybindings (no F-keys) that work on any system
 - **Immediate + Enhanced**: Works instantly with basic features, loads advanced features progressively
 - **Framework Support**: FastAPI, Django, Flask, pytest debugging configurations
 - **Visual UI**: Debug panels, variable inspection, breakpoint management
